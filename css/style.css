@@ -1,0 +1,63 @@
+html {
+  position: relative;
+}
+body {
+  margin: 50px 0 300px 0;
+  margin-bottom: 300px;
+}
+
+.jumbotron {
+    background-color: #ffe5d9;
+}
+
+.jumbotron img {
+  width: 200px;
+  border: 5px solid #696d7d;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+hr {
+  width: 250px;
+  border-top: 4px solid #696d7d;
+  margin-top: 0px;
+}
+
+section {
+  min-height: 600px;
+  padding-top: 50px;
+}
+
+.portfolio {
+  background-color: #d8e2dc;
+}
+
+.contact {
+  min-height: 800px;
+}
+
+footer { 
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 0;
+  background-color: #333;
+  padding: 40px;
+}
+
+footer p {
+  color: #ffcad4;
+}
+
+footer a {
+  color: #f4acb7;
+  font-size: 1em;
+}
+
+footer i{
+  color: #00cc7e;
+}
+
+
+
